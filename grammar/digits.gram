@@ -13,6 +13,7 @@ sample change4;
 sample change5;
 sample change6;
 sample change7;
+sample change8;
 
 public <miscellaneous> = (quit);
 
