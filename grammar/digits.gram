@@ -6,6 +6,14 @@
 
 grammar digits;
 
+sample change1;
+sample change2;
+sample change3;
+sample change4;
+sample change5;
+sample change6;
+sample change7;
+
 public <miscellaneous> = (quit);
 
 public <numbers> = (oh | zero | one | two | three | four | five | six | seven | eight | nine) * ;
