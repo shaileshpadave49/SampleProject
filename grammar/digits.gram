@@ -15,7 +15,7 @@ sample change6;
 sample change7;
 sample change8;
 
-public <miscellaneous> = (quit);
+public <miscellaneous> = (start);//(quit);
 
 public <numbers> = (oh | zero | one | two | three | four | five | six | seven | eight | nine) * ;
 
